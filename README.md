@@ -3,10 +3,10 @@ W tym repozytorium będą znajdować się pliki z zadaniami z SQL. Rozwiązania 
 
 ## Instalacja Git (Mac)
 Aby zainstalować Git na Mac'u należy wykonać następujące kroki:
-  Otwórz Terminal
-  Wpisz komendę: *git --version*
-  Jeśli jako wynik pojawi się numer wersji, to uper jest zainstalowany
-  Jeśli nie, pojawi się okno, czy chcesz zainstalować XCode czy samego Gita z AppStore
+1. Otwórz Terminal
+2. Wpisz komendę: *git --version*
+3. Jeśli jako wynik pojawi się numer wersji, to uper jest zainstalowany
+4. Jeśli nie, pojawi się okno, czy chcesz zainstalować XCode czy samego Gita z AppStore
 
 Jakby były jakieś problemy, spójrz na: [Jak używać Git na Macu?](https://www.macworld.co.uk/how-to/mac-software/how-use-git-github-on-your-mac-3639136/)
 
