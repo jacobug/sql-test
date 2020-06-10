@@ -1,3 +1,5 @@
+/* u mnie nie działa bez USE 'nazwa bazy danych' */
+
 CREATE TABLE leads (
 	lead_id int UNIQUE,
     car_id int,
